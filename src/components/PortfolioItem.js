@@ -13,6 +13,7 @@ export default class PortfolioItem extends React.Component {
                 <div className="project-card__image">
                   <img src={withPrefix(_.get(project, 'frontmatter.thumb_image', null))} alt={_.get(project, 'frontmatter.thumb_image_alt', null)} />
                 </div>
+                
                 )}
                 <header className="project-card__header">
                   <h3 className="project-card__title">{_.get(project, 'frontmatter.title', null)}</h3>
