@@ -12,7 +12,7 @@ import Header from './Header';
 import HeroSection from './HeroSection';
 import Layout from './Layout';
 import Icon from './Icon';
-import ImageSection from './ImageSection';
+import ImageSection from './ImageSection2';
 import PortfolioItem from './PortfolioItem';
 import PortfolioSection from './PortfolioSection';
 import PostsSection from './PostsSection';
