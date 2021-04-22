@@ -4,7 +4,7 @@ import _ from 'lodash';
 
 import {withPrefix, attribute} from '../utils';
 import Header from './Header';
-import Footer from './Footer';
+import Footer from './Footer4';
 
 export default class Body extends React.Component {
     render() {
