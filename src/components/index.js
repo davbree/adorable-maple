@@ -9,7 +9,7 @@ import FormField from './FormField';
 import FormSection from './FormSection';
 import GridSection from './GridSection2';
 import Header from './Header';
-import HeroSection from './HeroSection';
+import HeroSection from './HeroSection2';
 import Layout from './Layout';
 import Icon from './Icon';
 import ImageSection from './ImageSection2';
