@@ -6,7 +6,7 @@ import components, {Layout} from '../components/index';
 export default class Advanced extends React.Component {
     render() {
         return (
-            <Layout {...this.props}>
+            <Layout {...this.props}>lll
             {(!_.get(this.props, 'page.frontmatter.hide_title', null)) && (
             <header className="section section--header">
               <div className="container container--lg">
