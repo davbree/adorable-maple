@@ -4,7 +4,7 @@ import BlogFeedItem from './BlogFeedItem';
 import ContentSection from './ContentSection';
 import CtaButtons from './CtaButtons';
 import CtaSection from './CtaSection';
-import Footer from './Footer';
+import Footer from './Footer4';
 import FormField from './FormField';
 import FormSection from './FormSection';
 import GridSection from './GridSection23';
