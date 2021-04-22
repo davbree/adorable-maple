@@ -7,7 +7,7 @@ import CtaSection from './CtaSection';
 import Footer from './Footer';
 import FormField from './FormField';
 import FormSection from './FormSection';
-import GridSection from './GridSection';
+import GridSection from './GridSection2';
 import Header from './Header';
 import HeroSection from './HeroSection';
 import Layout from './Layout';
