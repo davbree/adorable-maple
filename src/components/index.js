@@ -14,7 +14,7 @@ import Layout from './Layout';
 import Icon from './Icon';
 import ImageSection from './ImageSection2';
 import PortfolioItem from './PortfolioItem';
-import PortfolioSection from './PortfolioSection2';
+import PortfolioSection from './PortfolioSection3';
 import PostsSection from './PostsSection';
 import TestimonialsSection from './TestimonialsSection';
 import TextSection from './TextSection';
