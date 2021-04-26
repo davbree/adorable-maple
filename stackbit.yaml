@@ -19,7 +19,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: Site aazzzaa
+        description: Site aazzzaaaaa
         required: true
       - type: string
         name: path_prefix
