@@ -4,6 +4,7 @@ const isDev = process.env.NODE_ENV === 'development';
 //a
 //b
 //c
+//d
 module.exports = {
     plugins: [
         {
