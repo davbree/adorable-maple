@@ -1,5 +1,5 @@
 {
-  "name": "stackbit-agency-theme!!!.",
+  "name": "stackbit-agency-theme!!!",
   "description": "Stackbit Agency Theme",
   "version": "0.0.1",
   "license": "MIT",
@@ -11,7 +11,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "babel-runtime": "^16.26.0",
+    "babel-runtime": "^6.26.0",
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
     "marked": "^0.8.0",
